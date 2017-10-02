@@ -6,3 +6,8 @@ A new repository is created. It is needed in order to make different commits and
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 In the repository you have all the files you have commited so far, while in the working directory you have all the files, the ones in the actual commit and the ones you haven't commited yet. The staging area offers you the chance to select one by one which files in your working directory you want to commit.
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+we can put the files in the stagging area after a logical change is performed. After that we can commit this change.
