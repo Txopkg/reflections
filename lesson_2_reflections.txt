@@ -11,3 +11,13 @@ In the repository you have all the files you have commited so far, while in the 
 How can you use the staging area to make sure you have one commit per logical change?
 
 we can put the files in the stagging area after a logical change is performed. After that we can commit this change.
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When you want to make a change but not publish it into your offivial program. They help by letting you to continue making changes in your main branch and the merge it with your unofficial program.
+
+
+How do the diagrams help you visualize the branch structure?
+
+It is easier to understand the structure of all the versions in the program and how changes have been implmented; letting you know easier how to move from one version to anothen and how to reach them.
