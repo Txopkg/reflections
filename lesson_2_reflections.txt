@@ -21,3 +21,14 @@ When you want to make a change but not publish it into your offivial program. Th
 How do the diagrams help you visualize the branch structure?
 
 It is easier to understand the structure of all the versions in the program and how changes have been implmented; letting you know easier how to move from one version to anothen and how to reach them.
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+You add and combine the changes of 2 diffent branches into 1 commit.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros: You can merge several changes in one time, for example changes made in different branches. Additionally, git merges them automatically so you don't have to pay attention to each change one by one.
+Cons: Git sometimes is not able to merge the changes automatically so you'll have to see the conflicts and solve de one at a time.
