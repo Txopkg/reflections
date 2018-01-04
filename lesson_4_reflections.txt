@@ -11,3 +11,8 @@ It makes easier to track the changes between the remote and your current version
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 Maybe by email or creating a chat group if a lot of peopleis involved in the development of the program. It will be easier to do when people has no knowledge of Git o Github, as everyone knows how to use text chats and emails. However it would be harder to control the history of the program and who has made the changes, as well as it would be much harder to implemente several changes on a time.
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When you are working togheter with other people or when you are adding new features separatelly to the master branch. In the second case, it allows you to perform different improvemoent or updates to your programm before adding all of them to the final version. Additionally, when working with otheer people it allows the rest of the collaborators to check the changes and see if they have any conflicts with their changes before submmiting them.
