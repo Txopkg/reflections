@@ -6,3 +6,8 @@ A fork is just a request for GitHub to clone the project and registers it under 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 It makes easier to track the changes between the remote and your current version.
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Maybe by email or creating a chat group if a lot of peopleis involved in the development of the program. It will be easier to do when people has no knowledge of Git o Github, as everyone knows how to use text chats and emails. However it would be harder to control the history of the program and who has made the changes, as well as it would be much harder to implemente several changes on a time.
